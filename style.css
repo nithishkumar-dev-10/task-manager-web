@@ -65,3 +65,25 @@ li {
   justify-content: space-between;
   align-items: center;
 }
+li {
+  background: #334155;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li button {
+  background: #ef4444;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+li button:hover {
+  background: #dc2626;
+}
