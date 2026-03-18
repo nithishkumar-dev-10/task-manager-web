@@ -1,17 +1,17 @@
-# 📝 Task Manager
+#  Task Manager
 
 A clean and minimal Task Manager Web App built using HTML, CSS, and JavaScript.  
 This project focuses on building a simple, fast, and user-friendly interface for managing daily tasks.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ➕ Add tasks  
-- ⌨️ Add tasks using Enter key  
-- ❌ Delete tasks  
-- 🎨 Modern dark UI  
-- ⚡ Lightweight and fast  
+-  Add tasks  
+-  Add tasks using Enter key  
+-  Delete tasks  
+-  Modern dark UI  
+-  Lightweight and fast  
 
 ---
 
@@ -25,7 +25,7 @@ index.html
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 task-manager/  
 │── index.html  
@@ -34,7 +34,7 @@ task-manager/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML  
 - CSS  
@@ -42,7 +42,7 @@ task-manager/
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - ✔ Mark tasks as completed  
 - ✔ Save tasks using localStorage  
@@ -51,7 +51,7 @@ task-manager/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Nithish Kumar  
 B.Tech Computer Science Student  
@@ -59,6 +59,6 @@ Aspiring AI Engineer 🚀
 
 ---
 
-## ⭐ Note
+##  Note
 
 This project was built to strengthen frontend fundamentals and improve GitHub portfo
