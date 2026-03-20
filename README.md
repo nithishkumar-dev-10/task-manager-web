@@ -5,7 +5,6 @@ This project focuses on building a simple, fast, and user-friendly interface for
 
 ---
 
-
 ##  Features
 
 -  Add tasks  
