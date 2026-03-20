@@ -25,7 +25,6 @@ index.html
 
 ---
 
-
 ##  Project Structure
 
 task-manager/  
