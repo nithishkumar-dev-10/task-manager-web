@@ -7,7 +7,6 @@ This project focuses on building a simple, fast, and user-friendly interface for
 
 ##  Features
 
-
 -  Add tasks  
 -  Add tasks using Enter key  
 -  Delete tasks  
