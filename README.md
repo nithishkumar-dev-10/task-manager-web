@@ -4,8 +4,6 @@ A clean and minimal Task Manager Web App built using HTML, CSS, and JavaScript.
 This project focuses on building a simple, fast, and user-friendly interface for managing daily tasks.
 
 ---
-
-
 ##  Features
 
 -  Add tasks  
